@@ -1,0 +1,21 @@
+[
+  {"name": "VendorID", "type": "INTEGER"},
+  {"name": "lpep_pickup_datetime", "type": "TIMESTAMP"},
+  {"name": "lpep_dropoff_datetime", "type": "TIMESTAMP"},
+  {"name": "store_and_fwd_flag", "type": "STRING"},
+  {"name": "RatecodeID", "type": "INTEGER"},
+  {"name": "PULocationID", "type": "INTEGER"},
+  {"name": "DOLocationID", "type": "INTEGER"},
+  {"name": "passenger_count", "type": "INTEGER"},
+  {"name": "trip_distance", "type": "FLOAT"},
+  {"name": "fare_amount", "type": "FLOAT"},
+  {"name": "extra", "type": "FLOAT"},
+  {"name": "mta_tax", "type": "FLOAT"},
+  {"name": "tip_amount", "type": "FLOAT"},
+  {"name": "tolls_amount", "type": "FLOAT"},
+  {"name": "ehail_fee", "type": "FLOAT"},
+  {"name": "improvement_surcharge", "type": "FLOAT"},
+  {"name": "total_amount", "type": "FLOAT"},
+  {"name": "payment_type", "type": "INTEGER"},
+  {"name": "trip_type", "type": "INTEGER"}
+]
