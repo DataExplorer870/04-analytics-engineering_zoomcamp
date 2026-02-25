@@ -1,5 +1,5 @@
 # 04-analytics-engineering_zoomcamp
-It is the 4th module of data engineering zoomcamp 2026
+It is the 4th module of data engineering zoomcamp '26
 
 Analytics Engineering is the bridge between Data Engineering and Data Analysis. A Data Engineer builds pipelines and moves data into the warehouse. A Data Analyst creates dashboards and reports for business users. An Analytics Engineer works in the middle and makes sure the data inside the warehouse is clean, organized, tested, and ready to use.
 This role became important because cloud data warehouses made storage and computing cheap. Earlier, teams had to carefully choose what data to store. Analytics Engineers bring software engineering practices into analytics work. They use version control like Git, write modular SQL models, add tests, and create documentation. This makes data reliable and easier to maintain.
