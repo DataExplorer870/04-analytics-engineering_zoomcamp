@@ -273,6 +273,13 @@ dbt run --select stg_green_tripdata stg_yellow_tripdata
     dbt test
   ```
 
+Resources
+
+- [DataTalks Club](https://datatalks.club/)
+- [Bruin Documentation](https://getbruin.com/docs/bruin/commands/overview.html)
+- [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
+
 
    
 
